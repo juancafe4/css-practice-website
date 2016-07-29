@@ -5,4 +5,6 @@ $(() => {
   $('.slider').slider();
 
   $('.carousel').carousel();
+
+  $('.modal-trigger').leanModal();
 });
